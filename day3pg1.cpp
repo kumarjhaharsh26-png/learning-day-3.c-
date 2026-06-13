@@ -1,3 +1,4 @@
+//Calculate the area and perimeter of a rectangle
 #include<iostream>
 using namespace std;
 
